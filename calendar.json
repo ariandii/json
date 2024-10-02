@@ -107,15 +107,6 @@
             "Hari Batik"
         ]
     },
-    "2024-11-01": {
-        "description": [
-            "Perayaan"
-        ],
-        "holiday": false,
-        "summary": [
-            "Diwali"
-        ]
-    },
     "2024-11-12": {
         "description": [
             "Perayaan"
@@ -132,6 +123,15 @@
         "holiday": false,
         "summary": [
             "Hari Guru"
+        ]
+    },
+    "2024-11-27": {
+        "description": [
+            "Hari Libur Nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Pilkada Serentak 2024"
         ]
     },
     "2024-12-22": {
